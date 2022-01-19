@@ -4,4 +4,5 @@
 
  - Para compilar os arquivos basta digitar "make" no terminal.
  - Para limpar os arquivos temporários (.o e executáveis),
-basta digitar "make clean"
+basta digitar "make clean".
+ - Para executar o programa basta digitar "make run" ou "./final.exe".
