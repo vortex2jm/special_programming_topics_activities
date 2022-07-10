@@ -1,8 +1,3 @@
-## EXERCÍCIO SOBRE TEMPLATE DE MACROS
+## Special Programming Topics
 
-#### Exercício feito para monitoria de prog 2
-
- - Para compilar os arquivos basta digitar "make" no terminal.
- - Para limpar os arquivos temporários (.o e executáveis),
-basta digitar "make clean".
- - Para executar o programa basta digitar "make run" ou "./final.exe".
+#### Exercises to practice and learn about pointers and modularization
